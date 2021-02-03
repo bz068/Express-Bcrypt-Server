@@ -1,1 +1,1 @@
-express | bcrypt | register | login | logout
+express | bcrypt | register | login | logout | JWT
